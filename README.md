@@ -1,3 +1,12 @@
+## Enhance i18n resource models with recursive key references within translated texts
+
+This sample application showcases a solution to extend the resource model in order to enable interesting manipulations of the translated text. The source code includes the basic technique of replacing the resource model and proposes a mechanism which allows the use of keys inside texts. The ResourceModel provided in this app can be used as a drop-in replacement for the original ResourceModel.
+
+*This is thought experiment and is not meant for production use!*
+
+https://blogs.sap.com/2023/08/23/enhance-i18n-resource-models-with-recursive-key-references-within-translated-texts-part-1/
+
+
 ## Application Details
 |               |
 | ------------- |
@@ -16,10 +25,6 @@
 |**Enable Code Assist Libraries**<br>False|
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>False|
-
-## resourcemodelstudy
-
-A Fiori application.
 
 ### Starting the generated app
 
